@@ -2,7 +2,6 @@
 
 - 🌱 I’m currently learning front end!
 - 📫 You can reach me on my e-mail, available below my profile picture
-- 😄 Pronouns: she/her
 
 <div align="center">
   <a href="https://github.com/raissagd">

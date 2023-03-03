@@ -37,4 +37,4 @@
 
   - Email: raissagdiniz@gmail.com
 
-  - Linkedin: Raissa Diniz
+  - Linkedin: [Raissa Diniz](https://www.linkedin.com/in/raissa-diniz-a15989238/)

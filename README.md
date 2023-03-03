@@ -1,19 +1,40 @@
-### Hi there 👋
+<h2 align="center">
+  Hi, my name is Raissa! Welcome to my profile
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
+</h2>
 
-- 🌱 I’m currently learning front end!
-- 📫 You can reach me on my e-mail, available below my profile picture
+<p align="center">
+  I'm working really hard to become a front-end developer!
+</p>
+<p align="center">
+  I'm also a Systems Engineering grad student at UFMG, currently on my third semester. 
+</p>
 
-<div align="center">
-  <a href="https://github.com/raissagd">
-  <img height="180em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=raissagd&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-</div>
-</div>
-<div style="display: inline_block"><br>
- <img align="center" alt="Raissa-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="Raissa-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="Raissa-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="Raissa-Bootstrap" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/bootstrap/bootstrap-original.svg">
-  <img align="center" alt="Raissa-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-  <img align="center" alt="Raissa-Cplusplus" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-original.svg">
-  <img align="center" alt="Raissa-C" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg">
-</div>
+
+</br>
+
+<p align="center">
+  <a href="https://github.com/vn7n24fzkq/github-profile-summary-cards"><img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=raissagd&theme=tokyonight" alt="Zo-Bro-23's github stats" /></a>
+</p>
+
+<p align="center">
+<a href="https://github.com/raissagd/github-readme-stats"><img align="center" src="https://github-readme-stats.zohan.tech/api/top-langs/?username=raissagd&layout=compact&hide_border=true&theme=tokyonight" /></a>
+</p>
+
+<h2>
+  🌟 Favorite tools until now: 
+</h2>
+
+<p align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=git,c,cpp,python,html,css,javascript,react" />
+  </a>
+</p>
+
+<h2>
+  📭 Get in touch: 
+</h2>
+
+  - Email: raissagdiniz@gmail.com
+
+  - Linkedin: Raissa Diniz

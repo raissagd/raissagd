@@ -2,17 +2,7 @@
   Hi, my name is Raissa! Welcome to my profile
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
 </h2>
-
-<p align="center">
-  I'm working really hard to become a front-end developer!
-</p>
-<p align="center">
-  I'm also a Systems Engineering grad student at UFMG, currently on my third semester. 
-</p>
-
-
 </br>
-
 <p align="center">
   <a href="https://github.com/vn7n24fzkq/github-profile-summary-cards"><img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=raissagd&theme=tokyonight" alt="Zo-Bro-23's github stats" /></a>
 </p>

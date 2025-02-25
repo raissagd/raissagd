@@ -3,9 +3,9 @@
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
 </h2>
 
-I am a junior front-end developer, passionate about developing new things and solving problems through technology.
+I'm a systems engineering student, at the Federal University of Minas Gerais (UFMG). I'm on my 7th period!
 
-- 🎓️ I'm currently a systems engineering student, at the Federal University of Minas Gerais (UFMG). I'm on my 5th period! 
+I'm passionate about developing new things and solving problems through technology.
 
 <h2>
   💻 Technologies: 
